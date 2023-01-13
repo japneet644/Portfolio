@@ -5,6 +5,6 @@
 
 `get_dataSQL.py`:  Generates data and saes it to the SQL database (using the file xy.fy which implements the Metropolis Hashtings algortihm).
 
-`retrieve_datasql.py': Retreiving data from database using python.
+`retrieve_datasql.py`: Retreiving data from database using python.
 
 
