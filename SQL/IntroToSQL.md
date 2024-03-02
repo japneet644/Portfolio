@@ -58,12 +58,23 @@ In this query:
 - `FROM` specifies the table(s) from which to retrieve the data.
 - `WHERE` filters the rows based on specified conditions.
 
-## Common Use Cases
+### 5. Data Definition Language (DDL) Enhancements
+   - Indexes: Improve query performance by creating indexes on columns frequently used in search conditions.
+   - Constraints: Enforce data integrity rules such as uniqueness and referential integrity using constraints like PRIMARY KEY, FOREIGN KEY, UNIQUE, and CHECK.
 
-SQL finds applications across various domains and industries:
+### 6. Advanced Data Manipulation Techniques
+   - Transactions: Ensure data consistency by executing a series of SQL statements as a single unit of work that either succeeds or fails as a whole.
+   - Stored Procedures and Functions: Encapsulate frequently used SQL code into reusable stored procedures and functions to improve code maintainability and performance.
 
-- **Data Analysis**: SQL enables analysts to query databases to extract insights and generate reports.
-- **Data Integration**: SQL can be used to integrate data from multiple sources by joining tables and performing transformations.
-- **Data Maintenance**: SQL allows for the insertion, updating, and deletion of records to ensure data accuracy and consistency.
-- **Database Administration**: Database administrators use SQL to manage user permissions, optimize database performance, and perform backups and restores.
+### 7. Joins and Subqueries
+   - Joins: Combine data from multiple tables based on related columns using INNER JOIN, LEFT JOIN, RIGHT JOIN, and FULL JOIN.
+   - Subqueries: Nest one query within another to perform complex data retrieval and manipulation tasks.
+
+### 8. Views and Materialized Views
+   - Views: Create virtual tables that represent the result of a stored query, providing a simplified and abstracted view of underlying data.
+   - Materialized Views: Store the results of a query as a physical table, refreshing periodically to reflect changes in the underlying data.
+
+### 9. Data Analytics with SQL
+   - Window Functions: Perform advanced data analysis tasks such as calculating running totals, moving averages, and ranking using window functions like ROW_NUMBER(), RANK(), and LAG().
+   - Aggregation and Grouping: Aggregate and summarize data using functions like SUM(), AVG(), COUNT(), and GROUP BY.
 
