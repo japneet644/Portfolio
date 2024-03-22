@@ -76,5 +76,4 @@ In this query:
 
 ### 9. Data Analytics with SQL
    - Window Functions: Perform advanced data analysis tasks such as calculating running totals, moving averages, and ranking using window functions like ROW_NUMBER(), RANK(), and LAG().
-   - Aggregation and Grouping: Aggregate and summarize data using functions like SUM(), AVG(), COUNT(), and GROUP BY.
 
