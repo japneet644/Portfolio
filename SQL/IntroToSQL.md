@@ -66,14 +66,3 @@ In this query:
    - Transactions: Ensure data consistency by executing a series of SQL statements as a single unit of work that either succeeds or fails as a whole.
    - Stored Procedures and Functions: Encapsulate frequently used SQL code into reusable stored procedures and functions to improve code maintainability and performance.
 
-### 7. Joins and Subqueries
-   - Joins: Combine data from multiple tables based on related columns using INNER JOIN, LEFT JOIN, RIGHT JOIN, and FULL JOIN.
-   - Subqueries: Nest one query within another to perform complex data retrieval and manipulation tasks.
-
-### 8. Views and Materialized Views
-   - Views: Create virtual tables that represent the result of a stored query, providing a simplified and abstracted view of underlying data.
-   - Materialized Views: Store the results of a query as a physical table, refreshing periodically to reflect changes in the underlying data.
-
-### 9. Data Analytics with SQL
-   - Window Functions: Perform advanced data analysis tasks such as calculating running totals, moving averages, and ranking using window functions like ROW_NUMBER(), RANK(), and LAG().
-
