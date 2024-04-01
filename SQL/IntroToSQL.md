@@ -61,8 +61,3 @@ In this query:
 ### 5. Data Definition Language (DDL) Enhancements
    - Indexes: Improve query performance by creating indexes on columns frequently used in search conditions.
    - Constraints: Enforce data integrity rules such as uniqueness and referential integrity using constraints like PRIMARY KEY, FOREIGN KEY, UNIQUE, and CHECK.
-
-### 6. Advanced Data Manipulation Techniques
-   - Transactions: Ensure data consistency by executing a series of SQL statements as a single unit of work that either succeeds or fails as a whole.
-   - Stored Procedures and Functions: Encapsulate frequently used SQL code into reusable stored procedures and functions to improve code maintainability and performance.
-
