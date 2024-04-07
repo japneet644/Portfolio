@@ -57,7 +57,3 @@ In this query:
 - `SELECT` specifies the columns to retrieve.
 - `FROM` specifies the table(s) from which to retrieve the data.
 - `WHERE` filters the rows based on specified conditions.
-
-### 5. Data Definition Language (DDL) Enhancements
-   - Indexes: Improve query performance by creating indexes on columns frequently used in search conditions.
-   - Constraints: Enforce data integrity rules such as uniqueness and referential integrity using constraints like PRIMARY KEY, FOREIGN KEY, UNIQUE, and CHECK.
