@@ -35,12 +35,3 @@ DCL commands manage user access and permissions within the database. Key DCL com
 
 - `GRANT`: Provides specific privileges to users or roles.
 - `REVOKE`: Removes specific privileges from users or roles.
-
-## SQL Syntax
-
-SQL syntax follows a structured format characterized by keywords, clauses, expressions, and identifiers. Some essential components of SQL syntax include:
-
-- **Keywords**: Reserved words that have specific meanings in SQL (e.g., SELECT, FROM, WHERE).
-- **Clauses**: Components of SQL statements that perform specific actions (e.g., SELECT, FROM, WHERE).
-- **Expressions**: Combinations of symbols, literals, and operators that evaluate to a single value.
-- **Identifiers**: Names of tables, columns, and other database objects.
